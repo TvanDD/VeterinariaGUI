@@ -1,0 +1,11 @@
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\bin\Debug\CLINICA  VETERINARIA.exe.config
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\bin\Debug\CLINICA  VETERINARIA.exe
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\bin\Debug\CLINICA  VETERINARIA.pdb
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA__VETERINARIA.Form1.resources
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA__VETERINARIA.Properties.Resources.resources
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.csproj.GenerateResource.cache
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.exe
+C:\Users\esteb\source\repos\CLINICA  VETERINARIA\CLINICA  VETERINARIA\obj\Debug\CLINICA  VETERINARIA.pdb
